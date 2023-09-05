@@ -14,8 +14,8 @@ global.APIKeys = {
 }
 
 global.set = {
-  link: 'https://chat.whatsapp.com/IaXnDzbbhNfBfTv0nN7bJI',
-  thumbnail: 'https://i.ibb.co/gtr5L2k/Supermoon-2012.jpg',
+  link: 'https://chat.whatsapp.com/KgBwia320AJ68u5g9E3I2h',
+  thumbnail: 'https://telegra.ph/file/2aaf072c4b3726c04af66.jpg',
   wm: `© AsepitgansXc v${require('./package.json').version}`,
   footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴍᴏᴏɴ',
   packname: 'Sticker By',
