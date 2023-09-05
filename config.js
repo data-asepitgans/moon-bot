@@ -16,10 +16,10 @@ global.APIKeys = {
 global.set = {
   link: 'https://chat.whatsapp.com/IaXnDzbbhNfBfTv0nN7bJI',
   thumbnail: 'https://i.ibb.co/gtr5L2k/Supermoon-2012.jpg',
-  wm: `© moon-bot v${require('./package.json').version}`,
+  wm: `© AsepitgansXc v${require('./package.json').version}`,
   footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴍᴏᴏɴ',
   packname: 'Sticker By',
-  author: 'moon-bot'
+  author: 'AsepitgansXc'
 }
 
 global.multiplier = 50
