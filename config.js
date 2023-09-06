@@ -10,7 +10,7 @@ global.APIs = {
   alya: 'https://api.alyachan.biz.id'
 }
 global.APIKeys = {
-  'https://api.alyachan.biz.id': 'bpPmGD'
+  'https://api.alyachan.biz.id': 'yuekq2'
 }
 
 global.set = {
